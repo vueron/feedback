@@ -1,5 +1,6 @@
 # feedback
 
+Submit Feed back: https://docs.google.com/forms/d/e/1FAIpQLSdxrToiN_opmVyBCTUJVQtwfOez0UjBL3-SKM-qiuoY1xeNbg/viewform?usp=sf_link
 
 - install vim (text editor)
 ```
